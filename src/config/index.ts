@@ -1,0 +1,1 @@
+export const baseUrlDb=`${process.env.REACT_APP_BASE_JSON_URL}`
